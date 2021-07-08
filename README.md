@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @matheusurl
-- 👀 I’m interested in a new emprego
-- 🌱 I’m currently learning  engenharia civil
-- 💞️ I’m looking to collaborate on  tudo que eu for capaz
-- 📫 How to reach me : 87981133045 - 22988163912
+- 👋 Oi, eu sou @matheusurl
+- 👀 Eu estou interessado em um novo emprego
+- 🌱 Atualmente estudo engenharia civil  (quarto período)
+- 💞️ Procuro colaborar com tudo que eu for capaz em sua empresa ou organiza 
+- 📫 Entre em contato comigo : 87981133045(whatsapp) - 22988163912 (ligação)
 
 <!---
 matheusurl/matheusurl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
